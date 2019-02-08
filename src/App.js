@@ -8,7 +8,7 @@ import Default from './components/Default';
 import ProductList from './components/ProductList';
 import Details from './components/Details';
 import Modal from './components/Modal';
-import Product from './components/Product';
+
 
 
 
